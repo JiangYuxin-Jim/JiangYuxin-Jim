@@ -1,3 +1,4 @@
-## Hi there! 👋
+# Hi, I'm Yuxin 👋 
 🎓 Master's Student at Xiamen University    
-🚀 Exploring Agent Harness, LLM & Machine Learning  
+🚀 Exploring Agent Harness, Al4Science & Machine Learning
+More about me → [🌐jiangyuxin.top](https://jiangyuxin.top/)
