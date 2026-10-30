@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**JiangYuxin-Jim/JiangYuxin-Jim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student at Xiamen University  
+🤖 Interested in LLM Agents & AI4Science  
+💻 Java / Python Developer  
+🚀 Exploring Agent Frameworks, RAG & Machine Learning  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java, SQL
+- **AI:** LLM Agents, RAG, Tool Calling
+- **Frameworks:** LangChain, LangGraph
+- **Tools:** Git, Docker, Linux
